@@ -1,4 +1,4 @@
-// Write a JavaScript program to determine whether a given year is a leap year in the Gregorian calendar.
+// Write a JavaScript program to determine whether a given year is a leap year in the Gregorian calendar
 
 // condition
 // if ! div by 4 ! LP 
